@@ -5,10 +5,11 @@ A collection of high-quality desktop wallpapers designed and created by Subham M
 ![Wallpaper 1](MTL/MT[MTL].png)
 # drive[MTL]
 ![Wallpaper 2](MTL/drive[MTL].png)
-![Wallpaper 3]()
+# crow[MTL]
+![Wallpaper 3](MTL/bird[MTL].png)
 ## Wallpaper Gallery
 
 | | | |
 |---|---|---|
-| ![](images/wall1.jpg) | ![](images/wall2.jpg) | ![](images/wall3.jpg) |
+| ![](MTL/MT[MTL].png) | ![](MTL/drive[MTL].png) | ![](MTL/bird[MTL].png) |
 | ![](images/wall4.jpg) | ![](images/wall5.jpg) | ![](images/wall6.jpg) |

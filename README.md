@@ -1,5 +1,8 @@
+
 # MTL[Made To Last]
-A collection of high-quality desktop wallpapers designed and created by Subham Malla. This repository features original designs and visually appealing backgrounds, updated regularly with new creations.A collection of original desktop wallpapers created by an amateur. Perfect for personalizing your desktop,phone and exploring creative digital art.
+A collection of high-quality desktop wallpapers designed and created by Subham Malla. This repository features original designs and visually appealing backgrounds, updated regularly with new creations.A collection of original desktop wallpapers Perfect for personalizing your desktop,phone and exploring creative digital art.
+## Download 
+Google drive:[📁](https://drive.google.com/drive/folders/1HG2mqvWspL3NzI7jRydHoXhurVh90rWQ?usp=sharing)
 ## Preview
 # MT[MTL]
 ![Wallpaper 1](MTL/MT[MTL].png)
@@ -17,9 +20,4 @@ A collection of high-quality desktop wallpapers designed and created by Subham M
 ![Wallpaper 7](MTL/likeu.png)
 
 
-## Wallpaper Gallery
-| | | |
-|---|---|---|
-| ![](MTL/MT[MTL].png) | ![](MTL/drive[MTL].png) | ![](MTL/drive-BW[MTL].png) |
-| ![](MTL/bird[MTL].png)  | ![](MTL/Ride[MTL].png) | ![](MTL/JORDON-MTL.png) |
-|  ![](MTL/likeu.png) 
+
